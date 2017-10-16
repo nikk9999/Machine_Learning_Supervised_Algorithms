@@ -1,4 +1,14 @@
 # Machine_Learning_Supervised_Algorithms
+Followig five algorithms are used to analyse the two classification problems of whether an adult earns >$50K per year and to calssify wine quality.
+
+1. Decision Trees
+2. Adaboost
+3. K-Nearest Neighbors
+4. Artificial Neural Network
+5. Support Vector Machines
+
+WEKA Java Based tool is used for this purpose.
+
 Datasets:
 https://drive.google.com/open?id=0BxnjqxEVUcSTYk5nbEZQcXNWT0k
 
